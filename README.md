@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganga-Suresh
 - 👀 I’m interested in web designing and development
 - 🌱 I’m currently learning web develoment
-- 📫 How to reach me hrouh email gsk.gangasuresh@gmail.com
+- 📫 Reach me through email gsk.gangasuresh@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
