@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Ganga-Suresh
-- 👀 I’m interested in web designing and development
+# Hi There,
+### I’m @Ganga-Suresh
+#### About Me
+___
+I am enthusiastic about web design and development and I love reading Books.
 - 🌱 I’m currently learning web develoment
-- 📫 Reach me through email gsk.gangasuresh@gmail.com
 - 😄 Pronouns: she/her
 
-<!---
-Ganga-Suresh/Ganga-Suresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages
+- HTML
+- CSS
+- Java Script
+- C#
+
+Tools
+- Visual Studio Code
+- Visual Studio
+- GitHub
+
+___
+##### Reach me Through:
+- Email: [gsk.gangasuresh@gmail.com](mailto:gsk.gangasuresh@mail.com)
+- Linkedin : [Ganga Suresh](https://www.linkedin.com/in/ganga-suresh-587bb6236/)
